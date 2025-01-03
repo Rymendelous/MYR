@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/3977891868_3865545228_223132457.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_1319405241_2046250331.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_2479385460_2358810818.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_3865545228_2488253737.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_1319405241_551511252.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_1312131150_527943590.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_1758960938_1957382632.mp4'
+file 'file:C:/Users/user/Desktop/MYR/media/videos/test/1080p60/partial_movie_files/CreateRectangle/2852726489_3292718077_543671248.mp4'
